@@ -4,7 +4,6 @@ Highly motivated and skilled junior in Information Technology with background in
 
 Skills: Dart/ JS / HTML / CSS/PHP
 
-- 🔭 I’m currently working on this page. 
 
 
 
